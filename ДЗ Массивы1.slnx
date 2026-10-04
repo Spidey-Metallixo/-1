@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ДЗ Массивы1/ДЗ Массивы1.vcxproj" />
+</Solution>
